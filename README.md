@@ -16,7 +16,7 @@ Before you begin, ensure you have met the following requirements:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/mahmoudelruby/new_task.git
+    git clone https://github.com/mahmoudelruby/news_task.git
     cd flutter_news_app
     ```
 
