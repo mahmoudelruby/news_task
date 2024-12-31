@@ -66,7 +66,7 @@ dependencies:
   provider: ^6.0.0
   url_launcher: ^6.0.20
   webview_flutter: ^3.0.4
-  lottie: ^1.2.1
+  http: ^1.2.2   
 
 dev_dependencies:
   flutter_test:
